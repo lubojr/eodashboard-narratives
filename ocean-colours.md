@@ -2,7 +2,7 @@
 cover-image: https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/1-EO_PIX_Ocean_COVER_Photo.jpeg
 date: 2025-01-01
 theme: oceans
-tags: ocean,life, diversity
+tags: ocean,life,diversity
 official: true
 ---
 
@@ -51,15 +51,15 @@ Use the interactive map to see how Ocean NPP vary globally. The compare feature 
 
 [3] Siswanto et al., 2016, Meridional and seasonal footprints of the Pacific Decadal Oscillation on phytoplankton biomass in the northwestern Pacific Ocean, J Oceanogr (2016) 72:465–477 <https://doi.org/10.1007/s10872-016-0367-z>
 
-[4] NPP Product <https://www.eodashboard.org/?poi=World-N11&indicator=N11>
+[4] NPP Product <https://eodashboard.org/explore?indicator=N11>
 
 ## Explore Datasets
 
    
 This EO narrative provides access to three interactive maps of global ocean net primary productivity.
 
-Access these datasets by clicking on the **[EXPLORE DATASETS](https://eodashboard.org/explore)** button at the top of the page or directly from the links below:
+Access these datasets by clicking on the **[Dashboard](https://eodashboard.org/explore)** tab at the top of the page or directly from the links below:
 
-- [NASA NPP](https://www.eodashboard.org/?poi=W11-NPPN&indicator=NPPN)    
-- [ESA NPP](https://www.eodashboard.org/?poi=NPP-NPP&indicator=NPP)    
-- [JAXA NPP](https://www.eodashboard.org/?poi=World-N11&indicator=N11)
+- [NASA NPP](https://eodashboard.org/explore?indicator=NPPN)    
+- [ESA NPP](https://eodashboard.org/explore?indicator=NPP)    
+- [JAXA NPP](https://eodashboard.org/explore?indicator=N11)

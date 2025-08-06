@@ -1,12 +1,12 @@
 ---
-cover-image: https://camo.githubusercontent.com/a4dc9401823978935bed98034109c604b1ec8b7360031c17754d1e96728d8e50/68747470733a2f2f7777772e6573612e696e742f7661722f6573612f73746f726167652f696d616765732f6573615f6d756c74696d656469612f696d616765732f323031332f31302f6e696768745f6c69676874732f31333335353137352d312d656e672d47422f4e696768745f6c69676874735f70696c6c6172732e6a7067
+cover-image: https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/Nightlights/nightlights_hero.jpeg
 date: 2025-01-01
 theme: economy
 tags: light,night,lockdown
 official: true
 ---
 
-# Observing Nighlights from Space<!--{ as="img" mode="hero" src="https://camo.githubusercontent.com/a4dc9401823978935bed98034109c604b1ec8b7360031c17754d1e96728d8e50/68747470733a2f2f7777772e6573612e696e742f7661722f6573612f73746f726167652f696d616765732f6573615f6d756c74696d656469612f696d616765732f323031332f31302f6e696768745f6c69676874732f31333335353137352d312d656e672d47422f4e696768745f6c69676874735f70696c6c6172732e6a7067" }-->
+# Observing Nighlights from Space<!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/Nightlights/nightlights_hero.jpeg" }-->
 
 ## Observing Nighlights from Space
 
@@ -102,29 +102,18 @@ Like NTLU (Nighttime Light Urban), the temporal coverage includes multi-year dat
 
 VIIRS satellite nightime ligh data are provided with open access, allowing interested researchers to gain deeper insights over particular areas, understand how cities grow, find economic patterns, and much more. 
 
-Supporting Open Science, here we reproduce the method developed by Professor Tojo to create the new dataset, in the following [notebook](https://hub.eox.at/services/eoxhub-gateway/eurodatacube/notebook-view/notebooks/contributions/NightLights/Night_Lights_Blending.ipynb). 
-The notebok allows to visualize urban expansion and infrastrucutre development using additive color blending - i.e. assigning different years to RGB channels to reveal where artificial areas increased (which could be linked to economic growth) or decreased (suggesting reduced activity).
+Supporting Open Science, here we reproduce the method developed by Professor Tojo to create the new dataset, in the following [notebook](https://esa-eodashboards.github.io/eodashboard-notebooks/notebooks/nightlights-notebook/night-lights-blending). 
+The notebook allows to visualize urban expansion and infrastrucutre development using additive color blending - i.e. assigning different years to RGB channels to reveal where artificial areas increased (which could be linked to economic growth) or decreased (suggesting reduced activity).
 
-<figure style="text-align: center;">
-    <img src="https://github.com/eurodatacube/eodash-assets/blob/main/stories/Nightlights/nightime_notebook_image.jpg?raw=true" 
-         alt=" . " 
-         style="display: block; margin: 0 auto;"
-         width="500">
-    <figcaption>
-         Jupyter Notebook: Nightime Lights with SUOMI NPP.
-        <a href="https://hub.eox.at/services/eoxhub-gateway/eurodatacube/notebook-view/notebooks/contributions/NightLights/Night_Lights_Blending.ipynb" target="_blank">
-             Access the Notebook
-        </a>.
-    </figcaption>
-</figure>
+<iframe width="100%" height="600" src="https://esa-eodashboards.github.io/eodashboard-notebooks/notebooks/nightlights-notebook/night-lights-blending" frameborder="0"></iframe>
 
-[Access the notebook](https://hub.eox.at/services/eoxhub-gateway/eurodatacube/notebook-view/notebooks/contributions/NightLights/Night_Lights_Blending.ipynb) to analyze trends, and uncover patterns of human activity on a location of your choice. 
+[Access the notebook](https://esa-eodashboards.github.io/eodashboard-notebooks/notebooks/nightlights-notebook/night-lights-blending) to analyze trends, and uncover patterns of human activity on a location of your choice. 
 
 ### Visualisation Portals
 
 * **NASA-ESA-JAXA Earth observing Dashboard**
 
-The [NASA-ESA-JAXA Earth observing Dashboard](https://eodashboard.org/explore?x=5442409.90488&y=525133.72922&z=2.81378&clusterOpen=1&indicator=N5) allows to crosscompare multiyear data over particular cities in Europe, exploring the Nighlights from SUOMI-NPP indicator, in particular the [Night lights in rural areas](https://eodashboard.org/explore?x=-2948638.45321&y=1639002.77598&z=3.45759&indicator=NTLR) and in [urban areas](https://eodashboard.org/explore?x=-2948638.45321&y=1639002.77598&z=3.45759&indicator=NTLU) datasets described in this story. 
+The [NASA-ESA-JAXA Earth observing Dashboard](https://eodashboard.org/explore?indicator=N5) allows to crosscompare multiyear data over particular cities in Europe, exploring the Nighlights from SUOMI-NPP indicator, in particular the [Night lights in rural areas](https://eodashboard.org/explore?indicator=NTLR) and in [urban areas](https://eodashboard.org/explore?indicator=NTLU) datasets described in this story. 
 
 * **NASA EarthData VEDA Dashboard**
 
