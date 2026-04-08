@@ -9,6 +9,20 @@ collections: Lakes_S2L2A, Lakes_ALOS2, Lakes_SWT_surface_water_temperature
 
 #  Changes in temperature, precipitation patterns and extremes impacting surface water hydrology <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/Alakol_Lake.jpg" }-->
 ### Read more about monitoring these impacts with Earth Observations <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
 
 ## Temperature
 
@@ -18,7 +32,7 @@ One example of this is the Colorado River, located in the southwest United State
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_coloradoriver_230707.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_coloradoriver_230707.png"
   width=300
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >
@@ -53,7 +67,7 @@ Changing rainfall patterns due to climate change can affect water levels and the
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_TonleSapLake_230712.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_TonleSapLake_230712.png"
   width=300
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >
@@ -85,7 +99,7 @@ At the base of the southern Sierra in the San Joaquin Valley lies the lakebed of
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_TulareLake_2307112.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_TulareLake_2307112.png"
   width=300
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >
@@ -116,7 +130,7 @@ Climate change and the consequent warming of lakes is leading to earlier and mor
 
 <figure style="text-align:center;">
   <img
-    src="https://github.com/eurodatacube/eodash/blob/master/app/public/data/story-images/Eodashboard_lakebalaton_2307112.png?raw=true"
+    src="https://raw.githubusercontent.com/eurodatacube/eodash/master/app/public/data/story-images/Eodashboard_lakebalaton_2307112.png"
   width=300
     style="max-width:100%; height:auto; display:block; margin:0 auto;"
   >

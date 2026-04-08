@@ -10,6 +10,21 @@ collections: N1_CO, N1_NO2, N1_SO2
 #  Australian bushfires in 2019-2020 emitted 700 million metric tons of CO2 into the atmosphere <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/8-wildfires.jpg" }-->
 ### How Air Pollution affects Climate Change <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
+
 ## Air Pollution and Climate Change
 
 Australia’s bushfires in the 2019-2020 season emitted about 700 million tonnes of carbon dioxide into the atmosphere. Using satellite data, a new study published in Nature proves how satellite measurements can illuminate the complicated ways in which Earth is responding to climate change in an era of worsening wildfires.
@@ -76,10 +91,16 @@ Scroll to visualise further dates and see the evolution of the emissions
 Explore more dates on the [Dashboard](https://eodashboard.org/explore?x=14264048.40361&y=-3702671.30498&z=4.39193&indicator=N1_CO)
 
 
-## Jupyter Notebook
+## <!--{ as="div" }--> Open Science
+### Open Science
+All datasets referenced in this story are freely and openly available. 
 
-The following Notebook evaluates fire impact on populated areas on a European site
-
-<iframe width="95%" style="min-height: 70vh" src="https://esa-eodashboards.github.io/eodashboard-notebooks/notebooks/fire-impact-analysis" frameborder="0"></iframe>
+| Name | Type | Agency / Provider | Description | Access |
+|---|---|---|---|---|
+| [Copernicus Sentinel-5P TROPOMI - Carbon Monoxide (CO)](https://eodashboard.org/explore?indicator=N1_CO) | Dataset | ESA / Copernicus | Daily atmospheric column CO concentrations derived from TROPOMI; used as proxy to estimate CO2 emissions from the 2019–2020 Australian bushfires | [EO Dashboard](https://eodashboard.org/explore?indicator=N1_CO) |
+| [Copernicus Sentinel-5P TROPOMI - Nitrogen Dioxide (NO2)](https://eodashboard.org/explore?indicator=N1_NO2) | Dataset | ESA / Copernicus | Daily atmospheric column NO2 concentrations derived from TROPOMI; global coverage | [EO Dashboard](https://eodashboard.org/explore?indicator=N1_NO2) |
+| [Copernicus Sentinel-5P TROPOMI - Sulfur Dioxide (SO2)](https://eodashboard.org/explore?indicator=N1_SO2) | Dataset | ESA / Copernicus | Daily atmospheric column SO2 concentrations derived from TROPOMI; global coverage | [EO Dashboard](https://eodashboard.org/explore?indicator=N1_SO2) |
+| [Copernicus Sentinel-5P Mission](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) | Mission | ESA / Copernicus | First Copernicus mission dedicated to atmospheric monitoring; carries the TROPOMI instrument measuring trace gases including CO, NO2, SO2, CH4, O3, and aerosols | [ESA Sentinel Online](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) |
+| [EO Dashboard](https://eodashboard.org/explore) | Platform | ESA / NASA / JAXA | Trilateral open Earth observation dashboard providing interactive maps of TROPOMI trace gas datasets and other EO products | [eodashboard.org](https://eodashboard.org/explore) |
 
 
