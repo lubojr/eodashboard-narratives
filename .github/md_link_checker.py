@@ -12,6 +12,7 @@ import time
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 from pathlib import Path
+from curl_cffi import requests as cffi_requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib3.exceptions import InsecureRequestWarning
 
