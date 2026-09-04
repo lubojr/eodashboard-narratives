@@ -3,6 +3,7 @@ cover-image: https://placehold.co/600x400/png
 date: YYYY-MM-DD
 theme: theme_name
 tags: tag1,tag2,tag3
+official: false
 ---
 
 # Story Title <!--{ as="img" mode="hero" src="[COVER_IMAGE_URL]" }-->
